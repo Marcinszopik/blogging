@@ -49,3 +49,8 @@ img
     float: left;
     padding: 0px 40px 0px 80px;
     }
+    p.warning{
+     color: blue;
+     font-size: 20px;
+
+    }

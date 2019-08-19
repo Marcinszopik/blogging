@@ -1,0 +1,51 @@
+
+body
+    {
+    background-color: yellow;
+    font-family: "Calibri", Arial, sans-serif;
+    }
+
+h1
+    {
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    }
+
+h2
+    {
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    }
+
+p
+    {
+    font-family: "Calibri", Arial, sans-serif;
+    font-size: 16px;
+    }
+
+ul
+    {
+    font-size: 16px;
+    }
+
+img
+    {
+    float: center;
+    }
+
+.sidebar
+    {
+    width: 30%;
+    float: center
+    background-color: red;
+    padding: 0px 0px 0px 0px;
+    }
+
+.column
+    {
+    width: 300px;
+    float: left;
+    padding: 0px 40px 0px 80px;
+    }
